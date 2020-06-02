@@ -17,3 +17,4 @@ phases:
 artifacts:
   files:
     - target/com.namitsaxena.aws-lambda-helloworld-1.0-SNAPSHOT.jar
+    - appspec.yaml
