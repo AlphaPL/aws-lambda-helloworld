@@ -3,7 +3,7 @@
 
 aws lambda invoke \
 --invocation-type RequestResponse \
---function-name Lambda-HelloWorld \
---region us-west-2 \
+--function-name GetRequest \
+--region us-east-1 \
 --payload file://src/test/resources/input1.json \
 outputfile.txt
