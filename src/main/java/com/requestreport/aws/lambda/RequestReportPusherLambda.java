@@ -23,7 +23,6 @@ import java.io.StringReader;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import com.google.gson.Gson;
-
 /**
  * Note:
  * Example: http://docs.aws.amazon.com/lambda/latest/dg/get-started-step4-optional.html doesn't work (gives - deserialization error with Integer
@@ -35,10 +34,10 @@ import com.google.gson.Gson;
  * @author namit
  *
  */
-public class RequestReportLambda
+public class RequestReportPusherLambda
 {
 
-    String queueName = "testGetReportList";
+    String queueName = "testRequestReport";
     AmazonSQS sqs = AmazonSQSClientBuilder.defaultClient();
 
     public String myHandler(Map<String,Object> input, Context context)
@@ -47,33 +46,13 @@ public class RequestReportLambda
             LambdaLogger logger = context.getLogger();
             logger.log("received : " + input);
             createQueue();
-            for(Object object: (Iterable<Object>)input.get("Records")) {
-                Map<String, String> message = (Map<String, String>)object;
-                Gson gson = new Gson();
-                ParamsTrigger trigger = gson.fromJson(message.get("body"), ParamsTrigger.class);
-                logger.log("trigger : " + trigger);
-                sendRequestIds(getRequestIds());
-            }
+            sendRequestIds(getRequestIds());
         } catch (Exception e) {
             e.printStackTrace(System.out);
         }
-        return "RequestReportLambda Finished";
+        return "Hello Welt";
     }
 
-
-    final String exampleResp =
-        "<RequestReportResponse xmlns=\"http://xml.com/doc/20019-01-01/\">" +
-        "    <RequestReportResult>" +
-        "        <ReportRequestInfo>" +
-        "            <ReportRequestId>1234567890</ReportRequestId>" +
-        "            <ReportType>_GET_STATISTICS_DATA_</ReportType>" +
-        "            <StartDate>20020-01-21T12:10:39+00:00</StartDate>" +
-        "            <EndDate>2020-02-13T12:10:39+00:00</EndDate>" +
-        "            <SubmittedDate>2009-02-20T12:10:39+00:00</SubmittedDate>" +
-        "            <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>" +
-        "        </ReportRequestInfo>" +
-        "    </RequestReportResult>" +
-        "</RequestReportResponse>";
     private void createQueue() {
         CreateQueueRequest create_request = new CreateQueueRequest(queueName)
                 .addAttributesEntry("DelaySeconds", "60")
@@ -89,16 +68,12 @@ public class RequestReportLambda
     }
 
     private List<String> getRequestIds() {
-        List<String> allMatches = new ArrayList<String>();
-        Matcher m = Pattern.compile("<ReportRequestId>(.*)</ReportRequestId>")
-            .matcher(exampleResp);
-                Gson gson = new Gson();
-        while (m.find()) {
-            ParamsTrigger trigger = new ParamsTrigger();
-            trigger.requestId = m.group(1);
-            allMatches.add(gson.toJson(trigger));
-        }
-        return allMatches;
+        Gson gson = new Gson();
+        List<String> triggers = new ArrayList<String>();
+        ParamsTrigger trigger = new ParamsTrigger();
+        trigger.requestId = "REQID";
+        triggers.add(gson.toJson(trigger));
+        return triggers;
     }
 
     private void sendRequestIds(List<String> requestIds) {
