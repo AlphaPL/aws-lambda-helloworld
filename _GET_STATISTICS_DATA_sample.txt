@@ -1,0 +1,69 @@
+order-id	date	update-date	status	sales-channel	service	name	code	flag	quantity	currency	cost	fee	city	state	postal-code	country	business-order
+2988671-2302842	2020-05-06T17:44:29+00:00	2020-05-06T17:49:58+00:00	Starting	CA Marketplace	Standard	Reusable	3U-MJX8-4-RF	Untriggered	1				Newmarket	ON	L3Y 3B8	CA	FALSE
+9397470-1634657	2020-05-06T21:36:15+00:00	2020-05-06T21:36:18+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Toronto	Ontario	M8V 3Y1	CA	FALSE
+9356778-4379435	2020-05-06T21:15:34+00:00	2020-05-06T21:15:39+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Calgary	Alberta	T2Y 4G4	CA	FALSE
+9735004-7036220	2020-05-06T20:16:24+00:00	2020-05-06T20:16:28+00:00	Starting	Marketplace	Expedited	Replacement	WATER-12	Untriggered	1	CAD	14.95		Quebec	Quebec	G1X 3G1	CA	FALSE
+9790708-3578662	2020-05-06T20:15:31+00:00	2020-05-06T20:17:20+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Edmonton	Alberta	T5H 3R3	CA	FALSE
+5335722-5039451	2020-05-06T20:01:46+00:00	2020-05-06T20:01:49+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		surrey	British Columbia	V4A 2A2	CA	FALSE
+7474638-1132222	2020-05-06T19:27:04+00:00	2020-05-06T19:28:11+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Port Colborne	Ontario	L3K 4P4	CA	FALSE
+6840990-3555413	2020-05-06T18:30:11+00:00	2020-05-06T18:30:19+00:00	Starting	Marketplace	Second	Premium	C-PAPER-100	Untriggered	1	CAD	16.85		Hamilton	Ontario	L8W 1G1	CA	FALSE
+0047333-4603457	2020-05-06T18:28:56+00:00	2020-05-06T18:28:59+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		TORONTO	ONTARIO	M9M 1P8	CA	FALSE
+1606517-6866639	2020-05-06T18:24:12+00:00	2020-05-06T18:24:24+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Windsor	Ontario	N8N 4R1	CA	FALSE
+0530290-8757848	2020-05-06T17:58:21+00:00	2020-05-06T17:58:25+00:00	Starting	Marketplace	Standard	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Calgary	Alberta	T3H 3J3	CA	FALSE
+1456684-2328228	2020-05-06T17:12:32+00:00	2020-05-06T17:12:35+00:00	Starting	Marketplace	Expedited	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Baddeck	Nova Scotia	B0E1B0	CA	FALSE
+0000727-2637817	2020-05-06T16:59:10+00:00	2020-05-06T17:00:20+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Bath	Ontario	K0H 1G0	CA	FALSE
+4025516-2478633	2020-05-06T16:15:20+00:00	2020-05-06T16:15:23+00:00	Starting	Marketplace	Expedited	Holder	KH-LBLW-TDHF	Untriggered	1	CAD	9.98		Oak Lake	Manitoba	R0M 1P0	CA	FALSE
+3919974-0025859	2020-05-06T16:13:39+00:00	2020-05-06T16:13:44+00:00	Starting	Marketplace	Standard	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Ottawa	Ontario	K1N6E8	CA	FALSE
+0144954-9157845	2020-05-06T15:55:28+00:00	2020-05-06T15:57:50+00:00	Starting	Marketplace	Second	Premium	C-PAPER-100	Untriggered	1	CAD	16.85		Buckhorn	Ontario	K0L 1J0	CA	FALSE
+6992215-6967450	2020-05-06T15:15:34+00:00	2020-05-06T15:15:37+00:00	Starting	Marketplace	Second	Cartridge	WATER-12	Untriggered	1	CAD	14.95		Waterloo	Ontario	N2J 1W6	CA	FALSE
+4932440-6720267	2020-05-06T15:02:59+00:00	2020-05-06T15:03:03+00:00	Starting	Marketplace	Second	Cartridge	WATER-12	Untriggered	1	CAD	14.95		Hantsport	Nova Scotia	B0P1P0	CA	FALSE
+1621062-3106635	2020-05-06T15:00:17+00:00	2020-05-06T15:00:20+00:00	Starting	Marketplace	Second	Cartridge	WATER-12	Untriggered	1	CAD	14.95		Etobicoke	Ontario	M9P 3W3	CA	FALSE
+9112930-0350638	2020-05-06T14:47:44+00:00	2020-05-06T14:47:49+00:00	Starting	Marketplace	Standard	Holder	KH-LBLW-TDHF	Untriggered	1	CAD	9.98		Fort Albany	Ontario	P0L1H0	CA	FALSE
+7069271-5709009	2020-05-06T14:40:01+00:00	2020-05-06T14:40:04+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Saskatoon	Saskatchewan	S7H 4N8	CA	FALSE
+3972978-5060255	2020-05-06T14:33:19+00:00	2020-05-06T14:33:23+00:00	Starting	Marketplace	Expedited	Cartridge	WATER-12	Untriggered	1	CAD	14.95		Hamilton	Ontario	L8R 3P7	CA	FALSE
+5307427-8522637	2020-05-06T14:23:24+00:00	2020-05-06T14:23:27+00:00	Starting	Marketplace	Standard	Premium	C-UNB-100	Untriggered	3	CAD	50.85		St. John's	Newfoundland	A1G 0A7	CA	FALSE
+7394032-5435434	2020-05-06T14:19:14+00:00	2020-05-06T14:19:17+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	2	CAD	33.9		courtice	Ontario	L1E2V8	CA	FALSE
+9914470-0286610	2020-05-06T14:06:45+00:00	2020-05-06T14:06:48+00:00	Starting	Marketplace	Second	Premium	C-PAPER-100	Untriggered	1	CAD	16.85		Montreal	Quebec	H4C 2P9	CA	FALSE
+8665811-8472262	2020-05-06T14:03:11+00:00	2020-05-06T14:03:17+00:00	Starting	Marketplace	Expedited	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Greenfield park	QC	J4V 1E4	CA	FALSE
+2069126-0270628	2020-05-06T13:51:09+00:00	2020-05-06T13:51:12+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-3-BP1	Untriggered	1	CAD	11.95		Penetanguishene	Ontario	L9M 1H6	CA	FALSE
+0195481-6408213	2020-05-06T12:48:38+00:00	2020-05-06T19:21:23+00:00	Started	Marketplace	Standard	Reusable	3U-MJX8-3-BP1	Triggered	1	CAD	11.95	1.79	Mount Pearl	Newfoundland	A1N 4Z2	CA	FALSE
+8657583-1152238	2020-05-06T11:01:21+00:00	2020-05-06T11:01:24+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-3-BP1	Untriggered	1	CAD	11.95		Rimouski	Quebec	G5L 1G4	CA	FALSE
+3930848-3906602	2020-05-06T03:24:57+00:00	2020-05-06T03:25:00+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-3-BP1	Untriggered	1	CAD	11.95		Beaumont	AB	T4X0G8	CA	FALSE
+9168970-5838669	2020-05-06T00:56:59+00:00	2020-05-06T00:57:02+00:00	Starting	Marketplace	Second	Holder	KH-LBLW-TDHF	Untriggered	1	CAD	9.98		London	Ontario	N5V 2B1	CA	FALSE
+0443990-7892253	2020-05-06T00:35:08+00:00	2020-05-06T00:35:11+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Sainte-Angele-De-Premont	Quebec	J0K 1R0	CA	FALSE
+5076591-1897057	2020-05-06T00:05:17+00:00	2020-05-06T00:05:20+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Nanaimo	BC	V9T 3T6	CA	FALSE
+5651012-4967441	2020-05-05T23:30:06+00:00	2020-05-05T23:30:10+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Calgary	Alberta	T3A 5V9	CA	FALSE
+0099621-4539464	2020-05-05T23:22:32+00:00	2020-05-05T23:22:35+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-3-BP1	Untriggered	1	CAD	11.95		Scarborough	Ontario	M1K 2G2	CA	FALSE
+3823197-5583455	2020-05-05T23:19:28+00:00	2020-05-05T23:19:32+00:00	Starting	Marketplace	Second	Holder	KH-LBLW-TDHF	Untriggered	1	CAD	9.98		Notre-Dame-De-L'Ile-Perrot	Quebec	J7V 5X6	CA	FALSE
+2309808-0824264	2020-05-05T23:08:06+00:00	2020-05-05T23:08:10+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Coquitlam	British Columbia	V3K 5A9	CA	FALSE
+2511177-7291447	2020-05-05T23:07:51+00:00	2020-05-05T23:07:55+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Markham	Ontario	L3S 4E8	CA	FALSE
+1690768-5249003	2020-05-05T22:42:53+00:00	2020-05-05T22:42:58+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-3-BP1	Untriggered	1	CAD	11.95		Stratford	Ontario	N5A 2L2	CA	FALSE
+6888968-3257053	2020-05-05T21:57:18+00:00	2020-05-06T13:01:31+00:00	Started	Marketplace	Second	Premium	C-UNB-100	Triggered	1	CAD	16.95	0.85	Leduc	Alberta	T9E 1K9	CA	FALSE
+7077054-0760246	2020-05-05T21:54:32+00:00	2020-05-05T21:54:36+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Waterloo	Ontario	N2L 4T1	CA	FALSE
+6445425-9106627	2020-05-05T21:54:26+00:00	2020-05-05T21:54:30+00:00	Starting	Marketplace	Standard	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Greely	Ontario	K4P 0C2	CA	FALSE
+0165956-4977042	2020-05-05T21:17:40+00:00	2020-05-06T17:23:43+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Val-des-monts	Quebec	J8N 7M1	CA	FALSE
+0849207-8870611	2020-05-05T19:57:54+00:00	2020-05-05T19:57:57+00:00	Starting	Marketplace	Second	Premium	C-PAPER-100	Untriggered	1	CAD	16.85		Victoria	BC	V8Z4V3	CA	FALSE
+2148393-8111425	2020-05-05T19:50:07+00:00	2020-05-05T19:50:11+00:00	Starting	Marketplace	Second	Cartridge	WATER-12	Untriggered	1	CAD	14.95		Calgary	Alberta	T2X 1L1	CA	FALSE
+7231749-2334640	2020-05-05T19:46:51+00:00	2020-05-05T19:46:57+00:00	Starting	Marketplace	Standard	Premium	C-UNB-100	Untriggered	1	CAD	16.95		peterborough	ON	K9L 1H4	CA	FALSE
+1420130-0028226	2020-05-05T19:31:35+00:00	2020-05-06T19:49:57+00:00	Started	Marketplace	Second	Holder	KH-LBLW-TDHF	Triggered	1	CAD	9.98	1.3	Alexandria	Ontario	K0C 1A0	CA	FALSE
+0047602-1640209	2020-05-05T19:17:33+00:00	2020-05-05T19:17:38+00:00	Starting	Marketplace	Second	Cartridge	WATER-12	Untriggered	1	CAD	14.95		Toronto	Ontario	M5V 0E6	CA	FALSE
+7733165-4644227	2020-05-05T19:11:14+00:00	2020-05-05T19:11:19+00:00	Starting	Marketplace	Standard	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Wabasca	Alberta	T0G 2K0	CA	FALSE
+1249147-6673002	2020-05-05T18:52:51+00:00	2020-05-06T13:03:01+00:00	Started	Marketplace	Second	Reusable	3U-MJX8-4-RF	Triggered	1	CAD	11.85	1.54	Stoney Creek	Ontario	L8E 0J6	CA	FALSE
+9593404-4534637	2020-05-05T18:26:13+00:00	2020-05-05T18:26:17+00:00	Starting	Marketplace	Standard	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Levis	Quebec	G7A 0E6	CA	FALSE
+5599238-6281842	2020-05-05T18:24:07+00:00	2020-05-05T18:26:30+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		North Bay	Ontario	P1B 2R2	CA	FALSE
+3734113-8488258	2020-05-05T18:19:13+00:00	2020-05-05T18:19:17+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Calgary	Alberta	T3L 2X1	CA	FALSE
+7529755-8950617	2020-05-05T18:14:26+00:00	2020-05-05T18:14:32+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Dartmouth	Nova Scotia	B2W 3T4	CA	FALSE
+0838122-9947438	2020-05-05T17:56:16+00:00	2020-05-05T17:56:19+00:00	Starting	Marketplace	Second	Premium	C-PAPER-100	Untriggered	2	CAD	33.7		Kanata	Ontario	K2K 2L4	CA	FALSE
+8478410-5492231	2020-05-05T17:46:52+00:00	2020-05-05T17:46:55+00:00	Starting	Marketplace	Standard	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Winnipeg	Manitoba	R3T 5G1	CA	FALSE
+1376631-8002654	2020-05-05T17:18:45+00:00	2020-05-05T17:20:08+00:00	Starting	Marketplace	Second	Cartridge	WATER-12	Untriggered	1	CAD	14.95		St. Catharines	ON	L2N 3W8	CA	FALSE
+3178706-6345055	2020-05-05T17:01:17+00:00	2020-05-05T17:01:21+00:00	Starting	Marketplace	Standard	Cartridge	WATER-12	Untriggered	1	CAD	14.95		Maple Ridge	British Columbia	V2W 0C2	CA	FALSE
+6297241-5228249	2020-05-05T16:53:27+00:00	2020-05-05T16:53:30+00:00	Starting	Marketplace	Expedited	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Kingston	Ontario	K7K 0G7	CA	FALSE
+2631734-1921046	2020-05-05T16:47:45+00:00	2020-05-05T16:47:48+00:00	Starting	Marketplace	Second	Premium	C-UNB-100	Untriggered	1	CAD	16.95		Cobourg	Ontario	K9A 4J7	CA	FALSE
+8702792-8076265	2020-05-05T16:47:28+00:00	2020-05-06T10:32:25+00:00	Starting	Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	CAD	11.85		Hamilton	Ontario	L8K 4R6	CA	FALSE
+1162565-3191430	2020-05-05T16:18:49+00:00	2020-05-06T15:37:38+00:00	Started	Marketplace	Second	Reusable	3U-MJX8-4-RF	Triggered	1	CAD	11.85	1.42	Peachland	British Columbia	V0H 1X7	CA	FALSE
+3069870-1892217	2020-05-06T20:58:00+00:00	2020-05-06T20:58:06+00:00	Starting	US Marketplace	Standard	Simple Good	MCR-WHITE	Untriggered	1	USD	9.95		KANSAS CITY	MO	64112-1750	US	FALSE
+6926280-9655437	2020-05-06T14:01:39+00:00	2020-05-06T21:25:46+00:00	Starting	US Marketplace	Expedited	Simple Good	MCR20-GOLD-BRWN	Untriggered	1	USD	9.95		FRANKSVILLE	WI	53126-9150	US	FALSE
+1036007-7983430	2020-05-06T00:39:59+00:00	2020-05-06T00:40:04+00:00	Starting	US Marketplace	Expedited	Simple Good	MCR12-GOLD	Untriggered	1	USD	9.95		SAINT PETERS	MO	63376-2285	US	FALSE
+1748693-6304248	2020-05-06T00:31:09+00:00	2020-05-06T06:04:02+00:00	Starting	US Marketplace	Standard	Simple Good	MCR12-GOLD	Untriggered	2	USD	19.9	0.82	Kualapuu	HI	96757	US	FALSE
+6365812-5248243	2020-05-05T20:57:16+00:00	2020-05-05T20:59:16+00:00	Starting	US Marketplace	Second	Reusable	3U-MJX8-4-RF	Untriggered	1	USD	9.89		BALTIMORE	MD	21231-2981	US	FALSE
+2807265-7785840	2020-05-05T20:03:27+00:00	2020-05-05T22:08:13+00:00	Starting	US Marketplace	Second	Lid	LID-300	Untriggered	1	USD	22.95		SEAFORD	DE	19973-4800	US	FALSE
